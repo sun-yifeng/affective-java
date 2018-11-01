@@ -1,2 +1,2 @@
-见CSDN中的五种单例模式写法
+见CSDN中的三种单例模式写法，饿汉式、懒汉式、枚举。其他几种写法雷同。
 https://blog.csdn.net/mrsyf/article/category/7237033

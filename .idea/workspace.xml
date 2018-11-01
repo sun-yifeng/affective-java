@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbefda6a-8d26-414d-ac34-d3e2b63356ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch03-singleton-pattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/singleton.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/singleton.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/singleton.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,7 +30,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="12" />
           <entry key="kt" value="1" />
           <entry key="txt" value="1" />
           <entry key="xml" value="4" />
@@ -38,7 +38,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="12" />
           <entry key="Kotlin" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="4" />
@@ -46,15 +46,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="923" />
-          <entry key="txt" value="16" />
+          <entry key="dummy" value="8" />
+          <entry key="java" value="1007" />
+          <entry key="txt" value="43" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="923" />
-          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="JAVA" value="1007" />
+          <entry key="PLAIN_TEXT" value="51" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -63,50 +64,39 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch02-multi-constuctor/src/main/java/com/sunyf/ch02/NutritionFacts.java">
+        <entry file="file://$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
               <folding>
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch02-multi-constuctor/src/main/java/com/sunyf/ch02/NutritionBuilder.java">
+        <entry file="file://$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-743">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-              <folding>
-                <element signature="e#1336#1337#0" expanded="true" />
-                <element signature="e#1391#1392#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="142">
+              <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch03-singleton-pattern/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/singleton.txt">
+        <entry file="file://$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch01-static-method/src/main/java/com/sunyf/ch01/StaticMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="101">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#970#971#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1129#1130#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,6 +124,13 @@
         <option value="$PROJECT_DIR$/ch02-multi-constuctor/src/main/java/com/sunyf/ch02/NutritionBuilder.java" />
         <option value="$PROJECT_DIR$/ch03-singleton-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/singleton.txt" />
+        <option value="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/SingletonA.java" />
+        <option value="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/SingletonA.java" />
+        <option value="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObejectA.java" />
+        <option value="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectA.java" />
+        <option value="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectB.java" />
+        <option value="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/MyObject.java" />
+        <option value="$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectC.java" />
       </list>
     </option>
   </component>
@@ -187,6 +184,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="affective-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="affective-java" type="462c0819:PsiDirectoryNode" />
+              <item name="ch03-singleton-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -198,7 +204,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541073134768" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541073806500" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -207,6 +213,9 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sunyf.ch03" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.sunyf.ch02" />
     </key>
@@ -380,12 +389,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541062607448</updated>
-      <workItem from="1541062609042" duration="4567000" />
+      <workItem from="1541062609042" duration="5209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4567000" />
+    <option name="totallyTimeSpent" value="5209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -398,10 +407,10 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.21752267" />
+      <window_info anchor="bottom" id="Messages" weight="0.55438066" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32930514" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32930514" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -504,7 +513,50 @@
     <entry file="file://$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/singleton.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObejectA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch03-singleton-pattern/src/main/java/com/sunyf/ch03/ObjectC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
