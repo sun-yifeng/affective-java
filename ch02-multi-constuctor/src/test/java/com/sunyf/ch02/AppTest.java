@@ -1,4 +1,4 @@
-package com.sunyf;
+package com.sunyf.ch02;
 
 import static org.junit.Assert.assertTrue;
 
