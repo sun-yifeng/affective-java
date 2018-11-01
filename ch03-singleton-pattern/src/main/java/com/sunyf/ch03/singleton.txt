@@ -1,0 +1,2 @@
+见CSDN中的五种单例模式写法
+https://blog.csdn.net/mrsyf/article/category/7237033

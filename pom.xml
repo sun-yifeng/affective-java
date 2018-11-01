@@ -12,6 +12,7 @@
   <modules>
     <module>ch01-static-method</module>
     <module>ch02-multi-constuctor</module>
+    <module>ch03-singleton-pattern</module>
   </modules>
 
   <name>affective-java</name>
