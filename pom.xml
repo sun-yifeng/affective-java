@@ -16,6 +16,7 @@
     <module>ch04-private-constructor</module>
     <module>ch05-avoid-unnecessary-objects</module>
     <module>ch06-obsolete-reference</module>
+    <module>ch07-avoid-finalizer-method</module>
   </modules>
 
   <name>affective-java</name>
