@@ -7,5 +7,6 @@
     <file url="file://$PROJECT_DIR$/ch03-singleton-pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch04-private-constructor" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch05-avoid-unnecessary-objects" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06-obsolete-reference" charset="UTF-8" />
   </component>
 </project>

@@ -11,6 +11,7 @@
         <module name="ch03-singleton-pattern" />
         <module name="ch04-private-constructor" />
         <module name="ch05-avoid-unnecessary-objects" />
+        <module name="ch06-obsolete-reference" />
       </profile>
     </annotationProcessing>
   </component>
