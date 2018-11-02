@@ -17,6 +17,7 @@
     <module>ch05-avoid-unnecessary-objects</module>
     <module>ch06-obsolete-reference</module>
     <module>ch07-avoid-finalizer-method</module>
+    <module>ch08-equals-contract</module>
   </modules>
 
   <name>affective-java</name>

@@ -13,6 +13,7 @@
         <module name="ch05-avoid-unnecessary-objects" />
         <module name="ch06-obsolete-reference" />
         <module name="ch07-avoid-finalizer-method" />
+        <module name="ch08-equals-contract" />
       </profile>
     </annotationProcessing>
   </component>
