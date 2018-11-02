@@ -10,6 +10,7 @@
         <module name="ch02-multi-constuctor" />
         <module name="ch03-singleton-pattern" />
         <module name="ch04-private-constructor" />
+        <module name="ch05-avoid-unnecessary-objects" />
       </profile>
     </annotationProcessing>
   </component>

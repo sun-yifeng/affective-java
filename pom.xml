@@ -14,6 +14,7 @@
     <module>ch02-multi-constuctor</module>
     <module>ch03-singleton-pattern</module>
     <module>ch04-private-constructor</module>
+    <module>ch05-avoid-unnecessary-objects</module>
   </modules>
 
   <name>affective-java</name>
